@@ -1,4 +1,4 @@
-# DCC++-ArduinoThrottle
+# DCC++ Arduino Throttle
 This is the code for a hardware throttle for the DCC++ system. It was initially based on the work by D. Bodnar (http://trainelectronics.com/DCC_Arduino/DCC++/Throttle/).
 
 Changes from the original:
